@@ -2,7 +2,7 @@
 - 👀 I’m interested in Providing Solutions for Companies using Data.
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Related Projects
-- 📫 How to reach me ; e-mail : __Ashimiusaheed33@gmail,com__
+- 📫 How to reach me ; e-mail : __Ashimiusaheed33@gmail.com__
   
 
 <!---
